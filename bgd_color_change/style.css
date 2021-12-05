@@ -1,0 +1,19 @@
+body {
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    padding: 15px 32px;
+}
+
+.container{
+    text-align: center;
+}
